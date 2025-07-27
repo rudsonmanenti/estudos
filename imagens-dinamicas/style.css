@@ -1,0 +1,35 @@
+*{
+    background-color: black;
+    color: white;
+}
+h1{
+    text-align: center;
+}
+ul{
+    display: flex;
+}
+li{
+    list-style: none;
+    margin: auto;
+    padding: 10px;
+}
+iframe{
+    display: block;
+    margin: auto;
+
+
+}
+.index{
+    display: block;
+    text-align: center;
+    padding: 20px;
+}
+a{
+    text-decoration: none;
+  
+}
+.link{
+    display: block;
+    text-align: center;
+    padding: 20px;
+}
